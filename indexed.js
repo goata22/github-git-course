@@ -1,6 +1,6 @@
 const age = 24;
 
-const name = "saideep"
+const name1 = "saideep";
 
 const date = '18/05/2004';
 
