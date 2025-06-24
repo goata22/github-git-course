@@ -9,5 +9,5 @@ function isAbove18() {
 }
 
 function newFn(){
-    console.log("my name is saideep");
+    console.log('my name is ${saideep}');
 }
